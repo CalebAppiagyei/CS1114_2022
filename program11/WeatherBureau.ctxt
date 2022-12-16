@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WeatherBureau
+comment0.text=\r\n\ \ WeatherBureau\ class\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (Caleba04)\r\n\ \ @version\ 2022.11.13\r\n
+comment1.params=
+comment1.target=WeatherBureau()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ WeatherBureau\ object.\r\n
+comment2.params=summary
+comment2.target=void\ recordDailySummary(java.lang.String)
+comment2.text=\r\n\ Records\ the\ rainfall\ from\ the\ daily\ summary\r\n\ @param\ summary\ is\ the\ summary\r\n
+comment3.params=input
+comment3.target=void\ recordDailySummaries(java.util.Scanner)
+comment3.text=\r\n\ Records\ the\ daily\ summaries\ from\ the\ input\r\n\ @param\ input\ is\ the\ given\ input\r\n
+comment4.params=id
+comment4.target=WeatherStation\ getStation(java.lang.String)
+comment4.text=\r\n\ Gets\ the\ weather\ station\r\n\ @param\ id\ is\ the\ id\r\n\ @return\ returns\ the\ station\r\n
+comment5.params=month
+comment5.target=WeatherStation\ lowestStation(int)
+comment5.text=\r\n\ Gets\ the\ station\ with\ the\ lowest\ average\r\n\ rainfall\ for\ the\ given\ month\r\n\ @param\ month\ is\ the\ given\ month\r\n\ @return\ returns\ the\ lowest\ weatherstation\r\n
+comment6.params=
+comment6.target=WeatherStation\ lowestStation()
+comment6.text=\r\n\ Gets\ the\ station\ with\ the\ lowest\ average\ \r\n\ rainfall\ for\ any\ month\r\n\ @return\ returns\ the\ lowest\ weatherstation\r\n
+numComments=7

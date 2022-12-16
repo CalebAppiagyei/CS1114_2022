@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=WeatherBureauTest
+comment0.text=\r\n\ \ Tests\ WeatherBureau\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (Caleba04)\r\n\ \ @version\ 2022.11.15\r\n
+comment1.params=
+comment1.target=WeatherBureauTest()
+comment1.text=\r\n\ Creates\ a\ new\ WeatherBureauTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testLowestStation()
+comment3.text=\r\n\ Tests\ lowestStation\r\n
+comment4.params=
+comment4.target=void\ testLowestStation2()
+comment4.text=\r\n\ Tests\ lowestStation\r\n
+comment5.params=
+comment5.target=void\ testGetStation()
+comment5.text=\r\n\ Tests\ getStation\r\n
+numComments=6
