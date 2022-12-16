@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Level6Solution
+comment0.text=\r\n\ \ Level\ 6,\ together\ with\ its\ solution\ using\ a\ single\ Light-Bot.\r\n\r\n\ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ @version\ 2022.08.24\r\n
+comment1.params=
+comment1.target=void\ myProgram()
+comment1.text=\r\n\ This\ method\ solves\ level\ 6\ of\ the\ LightBot\ game.\ The\ LightBot\ is\ placed\r\n\ at\ (2,6)\ and\ is\ commanded\ to\ travel\ using\ given\ instructions\ \r\n\ and\ light\ up\ specific\ blocks.\r\n
+numComments=2
