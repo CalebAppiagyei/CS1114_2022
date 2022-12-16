@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MazeRunnerTest
+comment0.text=\r\n\ \ This\ test\ class\ will\ test\ the\ methods\r\n\ \ used\ in\ for\ the\ Maze\ Runner\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.09.20\r\n
+comment1.params=
+comment1.target=MazeRunnerTest()
+comment1.text=\r\n\ Creates\ a\ new\ MazeRunnerTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testnavigateMaze()
+comment3.text=\r\n\ Tests\ the\ navigateMaze\ method\r\n\ to\ make\ sure\ it\ returns\ to\r\n\ the\ starting\ point\r\n
+comment4.params=
+comment4.target=void\ testcanMoveforward()
+comment4.text=\r\n\ Tests\ that\ this\ method\r\n\ identifies\ clear\ steps\ ahead\r\n
+comment5.params=
+comment5.target=void\ testcheckDisable()
+comment5.text=\r\n\ Tests\ that\ this\ method\ disables\r\n\ any\ net\ that\ may\ come\ ahead\r\n
+numComments=6
