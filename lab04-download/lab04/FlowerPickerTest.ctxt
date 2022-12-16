@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FlowerPickerTest
+comment0.text=\r\n\ \ This\ test\ class\ will\ test\ the\ methods\r\n\ \ created\ in\ the\ FlowerPicker\ subclass.\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (Caleba04)\r\n\ \ @version\ (2022.09.15)\r\n
+comment1.params=
+comment1.target=FlowerPickerTest()
+comment1.text=\r\n\ Creates\ a\ new\ FlowerPickerTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ testPickLine()
+comment2.text=\r\n\ Test\ the\ pickLine()\ method\ on\ flower\ patch\ A's\ northwest\ corner.\r\n
+comment3.params=
+comment3.target=void\ testPickLineE()
+comment3.text=\r\n\ Test\ pickLine()\ method\ on\ flower\ patch\ \r\n\ at\ northeast\ corner\r\n
+comment4.params=
+comment4.target=void\ testTurnAroundRight()
+comment4.text=\r\n\ Tests\ the\ turnAroundRight()\ method\r\n
+comment5.params=
+comment5.target=void\ testPick2Lines()
+comment5.text=\r\n\ Tests\ the\ pick2Lines()\ method\r\n
+numComments=6

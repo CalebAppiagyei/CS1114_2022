@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SquarePlanterTest
+comment0.text=\r\n\ \ This\ test\ class\ will\ test\ the\ plantSider()\r\n\ \ method\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.09.22\r\n
+comment1.params=
+comment1.target=SquarePlanterTest()
+comment1.text=\r\n\ Creates\ a\ new\ SquarePlanterTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testPlantSquare()
+comment3.text=\r\n\ This\ method\ will\ test\ to\ make\ sure\r\n\ the\ whole\ square\ is\ planted\ correctly\r\n
+comment4.params=
+comment4.target=void\ testPlantSide()
+comment4.text=\r\n\ This\ method\ will\ test\ to\ make\ sure\r\n\ that\ each\ side\ is\ being\ correctly\r\n\ planted\r\n
+numComments=5

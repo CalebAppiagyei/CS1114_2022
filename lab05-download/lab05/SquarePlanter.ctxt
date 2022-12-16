@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SquarePlanter
+comment0.text=\r\n\ \ This\ class\ will\ contain\ the\ instructions\r\n\ \ the\ Jeroo\ will\ use\ to\ plant\ the\ flowers\r\n\ \ in\ a\ square.\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.09.22\r\n
+comment1.params=flowersPerSide
+comment1.target=SquarePlanter(int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ SquarePlanter\ object.\r\n\ @param\ flowersPerSide\ uses\ the\ given\ number\ of\ flowers\ \r\n\ per\ side\r\n
+comment2.params=
+comment2.target=void\ plantSquare()
+comment2.text=\r\n\ This\ method\ will\ execute\ the\ planting\r\n\ of\ the\ full\ square\r\n
+comment3.params=
+comment3.target=void\ plantSide()
+comment3.text=\r\n\ This\ method\ will\ plant\ a\ side\ of\ the\ square\r\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NetIsland
+comment0.text=\r\n\ \ This\ class\ creates\ new\ NetiIsland\ object\r\n\ \ and\ adds\ it\ to\ the\ Island.\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.09.09\r\n
+comment1.params=
+comment1.target=NetIsland()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ NetIsland\ object.\r\n
+comment2.params=
+comment2.target=void\ myProgram()
+comment2.text=\r\n\ This\ myprogram\ method\ adds\ a\ new\ netRemover\r\n\ object\ and\ places\ it\ at\ (3,1)\r\n
+numComments=3

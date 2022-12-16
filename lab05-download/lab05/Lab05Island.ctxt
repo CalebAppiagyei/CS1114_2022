@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Lab05Island
+comment0.text=\r\n\ \ Creates\ an\ Island\ for\ the\ Jeroo.\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.09.22\r\n
+comment1.params=
+comment1.target=Lab05Island()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Lab05Island\ object.\r\n
+numComments=2

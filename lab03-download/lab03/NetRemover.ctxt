@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=NetRemover
+comment0.text=\r\n\ \ This\ NetRemover\ subclass\ will\ instruct\r\n\ \ the\ jeroo\ to\ use\ the\ flowers\ to\ remove\r\n\ \ the\ nets.\ It\ extends\ jeroo.\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.09.09\r\n
+comment1.params=
+comment1.target=NetRemover()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ NetRemover\ object.\r\n
+comment2.params=
+comment2.target=void\ pickFlowersAndDisableNets()
+comment2.text=\r\n\ This\ method\ will\ give\ instructions\ for\ the\r\n\ jeroo\ \r\n
+comment3.params=
+comment3.target=void\ collectFlowers()
+comment3.text=\r\n\ This\ method\ will\ instruct\ the\ jeroo\r\n\ to\ collect\ all\ of\ the\ flowers\r\n
+comment4.params=
+comment4.target=void\ returnToStartPoint()
+comment4.text=\r\n\ This\ method\ instructs\ the\ jeroo\r\n\ to\ return\ back\ to\ (3,1)\r\n
+comment5.params=
+comment5.target=void\ approachNets()
+comment5.text=\r\n\ This\ method\ instructs\ the\ jeroo\r\n\ to\ approach\ the\ nets\r\n
+comment6.params=
+comment6.target=void\ disableNets()
+comment6.text=\r\n\ This\ method\ will\ instruct\ the\ jeroo\r\n\ to\ disable\ as\ many\ nets\ as\ possible\r\n
+numComments=7
