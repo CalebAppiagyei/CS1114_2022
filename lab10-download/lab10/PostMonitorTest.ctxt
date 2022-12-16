@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PostMonitorTest
+comment0.text=\r\n\ \ Tests\ PostMonitor\ class\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.10.29\r\n
+comment1.params=
+comment1.target=PostMonitorTest()
+comment1.text=\r\n\ Creates\ a\ new\ PostMonitorTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testCounts()
+comment3.text=\r\n\ Tests\ Counts\r\n
+comment4.params=
+comment4.target=void\ testRecordPost()
+comment4.text=\r\n\ Tests\ recordPost\r\n
+comment5.params=
+comment5.target=void\ testGetIndex()
+comment5.text=\r\n\ Tests\ getIndex\r\n
+comment6.params=
+comment6.target=void\ testHour()
+comment6.text=\r\n\ Tests\ hour\r\n
+comment7.params=
+comment7.target=void\ testDay()
+comment7.text=\r\n\ Tests\ day\r\n
+numComments=8

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CopyingJeroo
+comment0.text=\r\n\ \ A\ Jeroo\ that\ walks\ every\ cell\ in\ on\ an\ island\ and\ uses\ delegation\r\n\ \ to\ instruct\ a\ second\ jeroo\ to\ follow\ its\ motions\ and\ plant\ a\ flower\r\n\ \ anywhere\ it\ finds\ one.\r\n\r\n\ \ @author\ Caleb\ Appiagyei\r\n\ \ @version\ 2022.10.10\r\n
+comment1.params=copy
+comment1.target=CopyingJeroo(student.micro.jeroo.Jeroo)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ CopyingJeroo\ object.\r\n\ @param\ copy\ is\ the\ copying\ jeroo\r\n
+comment2.params=
+comment2.target=void\ walkIsland()
+comment2.text=\r\n\ Walk\ a\ pattern\ over\ every\ grid\ location\ on\ the\ current\ island.\r\n
+comment3.params=
+comment3.target=void\ hopToWater()
+comment3.text=\r\n\ Hop\ forward\ until\ we\ reach\ the\ water.\r\n
+comment4.params=
+comment4.target=void\ aboutFace()
+comment4.text=\r\n\ Turn\ around\ and\ hop\ the\ other\ way\r\n
+comment5.params=
+comment5.target=void\ hop()
+comment5.text=\r\n\ Overrides\ original\ hop()\ method\ and\r\n\ makes\ the\ copier\ jeroo\ hop\ as\ well\r\n
+comment6.params=d
+comment6.target=void\ turn(student.micro.jeroo.RelativeDirection)
+comment6.text=\r\n\ Overrides\ original\ turn()\ method\ and\r\n\ makes\ the\ copier\ jeroo\ turn\ as\ well\r\n\ @param\ d\ turns\ the\ jeroos\ in\ the\ \r\n\ correct\ direction\r\n
+numComments=7

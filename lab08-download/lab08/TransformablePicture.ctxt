@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TransformablePicture
+comment0.text=\r\n\ \ A\ picture\ that\ supports\ basic\ color\ transformations\ for\ Lab\ 08.\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.10.13\r\n
+comment1.params=original
+comment1.target=TransformablePicture(student.media.Picture)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ TransformablePicture\ object\ as\ a\ copy\r\n\ of\ another\ image.\r\n\ @param\ original\ gives\ the\ original\ picture\r\n
+comment2.params=rate
+comment2.target=void\ radialShadow(int)
+comment2.text=\r\n\ Adds\ a\ radial\ shadow\ that\ gets\ darker\ the\ farther\ a\ pixel\ is\ from\r\n\ the\ upper\ left\ corner.\r\n\ \r\n\ @param\ rate\ The\ speed\ at\ which\ the\ shadow\ gets\ darker,\ where\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ a\ larger\ number\ produces\ a\ more\ gradual\ shadow\r\n
+comment3.params=rate
+comment3.target=void\ radialGlow(int)
+comment3.text=\r\n\ Adds\ a\ radial\ glow\ that\ gets\ brighter\ the\ farther\ a\ pixel\ is\ from\r\n\ the\ bottom\ right\ corner.\r\n\ \r\n\ @param\ rate\ The\ speed\ at\ which\ the\ shadow\ gets\ lighter,\ where\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ a\ larger\ number\ produces\ a\ more\ gradual\ glow\r\n
+comment4.params=pix\ amount
+comment4.target=void\ adjustPixel(student.media.Pixel,\ int)
+comment4.text=\r\n\ Takes\ a\ given\ pixel\ and\ adjusts\ its\ RGB\r\n\ values\ using\ a\ given\ int\ value\r\n\ @param\ pix\ is\ the\ given\ pixel\r\n\ @param\ amount\ is\ the\ change\ amount\r\n
+comment5.params=rate
+comment5.target=void\ colorShift(int)
+comment5.text=\r\n\ Adjusts\ the\ Red\ and\ Blue\ values\ of\ each\r\n\ pixel\r\n\ @param\ rate\ is\ the\ given\ user\ rate\r\n
+comment6.params=pix\ amount
+comment6.target=void\ adjustPixel2(student.media.Pixel,\ int)
+comment6.text=\r\n\ Takes\ a\ given\ pixel\ and\ adjusts\ its\ B\r\n\ value\ using\ a\ given\ int\ value\r\n\ @param\ pix\ is\ the\ given\ pixel\r\n\ @param\ amount\ is\ the\ change\ amount\r\n
+comment7.params=pix\ amount
+comment7.target=void\ adjustPixel3(student.media.Pixel,\ int)
+comment7.text=\r\n\ Takes\ a\ given\ pixel\ and\ adjusts\ its\ R\r\n\ value\ using\ a\ given\ int\ value\r\n\ @param\ pix\ is\ the\ given\ pixel\r\n\ @param\ amount\ is\ the\ change\ amount\r\n
+numComments=8

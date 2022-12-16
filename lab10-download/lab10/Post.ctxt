@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Post
+comment0.text=\r\n\ \ This\ class\ will\ represent\ a\ social\ media\ post\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.10.29\r\n
+comment1.params=n\ m\ d\ h
+comment1.target=Post(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Post\ object.\r\n\ @param\ n\ is\ the\ name\r\n\ @param\ m\ is\ the\ message\r\n\ @param\ d\ is\ the\ day\r\n\ @param\ h\ is\ the\ hour\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gets\ the\ name\r\n\ @return\ returns\ name\r\n
+comment3.params=
+comment3.target=java.lang.String\ getMessage()
+comment3.text=\r\n\ Gets\ the\ message\r\n\ @return\ returns\ message\r\n
+comment4.params=
+comment4.target=int\ getDay()
+comment4.text=\r\n\ Gets\ the\ day\r\n\ @return\ returns\ day\r\n
+comment5.params=
+comment5.target=int\ getHour()
+comment5.text=\r\n\ Gets\ the\ hour\r\n\ @return\ returns\ hour\r\n
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CopyingJerooTest
+comment0.text=\r\n\ \ This\ test\ class\ will\ test\ the\ methods\r\n\ \ created\ in\ the\ copyingjeroo\ class\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (Caleba04)\r\n\ \ @version\ 2022.10.11\r\n
+comment1.params=
+comment1.target=CopyingJerooTest()
+comment1.text=\r\n\ Creates\ a\ new\ CopyingJerooTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testFillIsland()
+comment3.text=\r\n\ This\ test\ method\ will\ fill\ the\ island\r\n\ with\ flowers\r\n
+comment4.params=
+comment4.target=void\ testHopToWater()
+comment4.text=\r\n\ Check\ hopToWater(),\ assuming\ that\ setUp()\ places\ the\r\n\ jeroo\ at\ (1,\ 1)\ facing\ east.\r\n
+comment5.params=
+comment5.target=void\ testWalkIsland()
+comment5.text=\r\n\ Tests\ that\ both\ jeroos\ travel\ the\ full\ island\r\n
+comment6.params=
+comment6.target=void\ testAboutFace()
+comment6.text=\r\n\ Tests\ that\ the\ method\ is\ able\ to\ turn\ the\ \r\n\ Jeroo\r\n
+numComments=7
