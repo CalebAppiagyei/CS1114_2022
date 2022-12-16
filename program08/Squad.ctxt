@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Squad
+comment0.text=\r\n\ \ This\ subclass\ of\ EnhancedUnit\ will\ represent\r\n\ \ a\ squad\ of\ units\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.10.25\r\n
+comment1.params=n
+comment1.target=Squad(java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Squad\ object.\r\n\ @param\ n\ given\ name\r\n
+comment2.params=
+comment2.target=java.util.List\ getUnits()
+comment2.text=\r\n\ This\ method\ gets\ the\ units\ list\r\n\ @return\ unit\ list\r\n
+comment3.params=newUnit
+comment3.target=void\ addUnit(Unit)
+comment3.text=\r\n\ This\ method\ add\ a\ unit\ to\ the\ list\r\n\ @param\ newUnit\ is\ the\ unit\ to\ be\ \r\n\ added\r\n
+comment4.params=rUnit
+comment4.target=void\ removeUnit(Unit)
+comment4.text=\r\n\ Method\ that\ removes\ an\ upgrade\r\n\ @param\ rUnit\ is\ the\ Upgrade\ that\r\n\ will\ be\ removed\r\n
+comment5.params=
+comment5.target=int\ getPoints()
+comment5.text=\r\n\ A\ getter\ method\ that\ retreives\ the\ point\ value\r\n\ @return\ returns\ points\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Overriding\ toString()\r\n\ @return\ returns\ the\ new\ String\r\n
+numComments=7
