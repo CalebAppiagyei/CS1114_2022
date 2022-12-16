@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Harvester
+comment0.text=\r\n\ \ This\ class\ is\ a\ subclass\ of\ Jeroo.\r\n\ \ It\ inherits\ all\ of\ the\ methods\ of\ Jeroo.\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.09.02\r\n
+comment1.params=
+comment1.target=Harvester()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Harvester\ object.\r\n
+comment2.params=
+comment2.target=void\ hopAndPick()
+comment2.text=\r\n\ Instructs\ the\ Jeroo\ to\ hop\ and\ pick.\r\n
+comment3.params=
+comment3.target=void\ hop2AndPick()
+comment3.text=\r\n\ Calls\ the\ hopAndPick\ method\ twice\r\n
+comment4.params=
+comment4.target=void\ harvestRow()
+comment4.text=\r\n\ Calls\ the\ hop2AndPick\ method\ three\ times\r\n
+numComments=5

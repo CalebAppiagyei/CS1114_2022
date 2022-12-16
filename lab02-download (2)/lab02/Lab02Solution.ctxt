@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lab02Solution
+comment0.text=\r\n\ \ This\ class\ adds\ three\ Harvester\ objects.\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.09.02\r\n
+comment1.params=
+comment1.target=Lab02Solution()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Lab02Solution\ object.\r\n
+comment2.params=
+comment2.target=void\ myProgram()
+comment2.text=\r\n\ Initializes\ a\ new\ method\ titled\ myProgram.\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlantingHarvester
+comment0.text=\r\n\ \ This\ class\ also\ extends\ Harvester.\r\n\ \ It\ creates\ a\ Plating\ Harvester\ Jeroo\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.09.02\r\n
+comment1.params=
+comment1.target=PlantingHarvester()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ PlantingHarvester\ object.\r\n
+comment2.params=
+comment2.target=void\ hop2AndPick()
+comment2.text=\r\n\ Calls\ hopAndPick\ from\ Harvester\ class\ then\ adds\ a\ call\r\n\ from\ the\ hop\ and\ plant\ methods\r\n
+numComments=3
