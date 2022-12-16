@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UpgradeTest
+comment0.text=\r\n\ \ Tests\ the\ Upgrade\ class\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.10.16\r\n
+comment1.params=
+comment1.target=UpgradeTest()
+comment1.text=\r\n\ Creates\ a\ new\ UpgradeTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testName()
+comment3.text=\r\n\ Tests\ the\ name\ getter\ and\ setter\ methods\r\n
+comment4.params=
+comment4.target=void\ testPoints()
+comment4.text=\r\n\ Tests\ the\ points\ getter\ and\ setter\ methods\r\n
+comment5.params=
+comment5.target=void\ testUpgrade()
+comment5.text=\r\n\ Testing\ upgrade\ constructor\r\n
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Monster
+comment0.text=\r\n\ \ Subclass\ of\ enhanced\ unit\ that\ is\ extra\ \r\n\ \ durable\ and\ capable.\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.10.16\r\n
+comment1.params=n\ p
+comment1.target=Monster(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Monster\ object.\r\n\ @param\ n\ The\ name\ (and\ description)\ of\ the\ upgrade.\r\n\ @param\ p\ the\ point\ value\ of\ the\ upgrade\r\n
+numComments=2

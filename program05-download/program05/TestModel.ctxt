@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestModel
+comment0.text=\r\n\ \ This\ class\ is\ a\ test\ model\ for\ the\ Schelling\ \r\n\ \ simulation\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (caleba04)\r\n\ \ @version\ 2022.10.05)\r\n
+comment1.params=
+comment1.target=TestModel()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ TestImage2x2\ object.\r\n
+comment2.params=colorValue
+comment2.target=TestModel(int)
+comment2.text=\r\n\ Initializes\ a\ newly\ created\ TestModel\ object.\r\n\ @param\ colorValue\ represents\ the\ color\ of\ \r\n\ pixel\r\n
+numComments=3
