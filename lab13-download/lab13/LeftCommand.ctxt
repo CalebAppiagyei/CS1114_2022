@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LeftCommand
+comment0.text=\r\n\ \ Left\ Command\ class\ that\ implements\ command\r\n\r\n\ \ @author\ Caleb\ Appiagyei\ (Caleba04)\r\n\ \ @version\ 2022.11.18\r\n
+comment1.params=jeroo
+comment1.target=LeftCommand(student.micro.jeroo.Jeroo)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ ForwardCommand\ object.\r\n\ @param\ jeroo\ is\ the\ given\ jeroo\r\n
+comment2.params=
+comment2.target=void\ execute()
+comment2.text=\r\n\ Executes\ the\ command\r\n
+numComments=3
